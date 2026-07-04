@@ -17,7 +17,7 @@
 
 I am a data analyst with strong technical foundations in SQL, Python, R, and data visualization, focused on transforming large, complex datasets into actionable insights that support business and operational decision-making. My background spans analytics projects in healthcare operations, sales and marketing analytics, customer segmentation, and sentiment analysis, with experience working on both structured and unstructured data at scale.
 
-I have formal training in data analytics through the Postgraduate-level (Level 7) Career Accelerator in Data Analytics (with Distinction) at the London School of Economics and Political Science, where I completed intensive, project-based work integrating analytics with real-world decision contexts.
+I have formal training in data analytics through a Postgraduate Degree Certification (Level 7) in Data Analytics (with Distinction) at the London School of Economics and Political Science, where I completed intensive, project-based work integrating analytics with real-world decision contexts.
 
 ### *Core tools and technologies:*
 
